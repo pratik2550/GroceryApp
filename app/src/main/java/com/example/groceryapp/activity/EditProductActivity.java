@@ -426,7 +426,7 @@ public class EditProductActivity extends AppCompatActivity {
                     if (cameraAccepted && storageAccepted) {
                         pickFromCamera();
                     } else {
-                        Toast.makeText(this, "Kame NAhi Kar Raha", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(this, "Please enable camera and storage  permission...", Toast.LENGTH_SHORT).show();
                     }
                 }
             }
@@ -438,7 +438,7 @@ public class EditProductActivity extends AppCompatActivity {
                     if (storageAccepted) {
                         pickFromGalery();
                     } else {
-                        Toast.makeText(this, "Kame Nahi Kar Raha", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(this, "Please enable storage  permission...", Toast.LENGTH_SHORT).show();
                     }
                 }
             }
