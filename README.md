@@ -7,12 +7,11 @@ An application for buying grocery online from near by shops, In it seller are al
 - firebase
 - Android Studio
 
-**Screenshots**
+## Screenshots
 |                            Shop List                            |                          Product List                              |                           Shop List                                 |
 | :-------------------------------------------------------------: | :----------------------------------------------------------------: | :-----------------------------------------------------------------: |
 |<img src="Screenshots/3.shop_list.jpg" height="600" width="auto">|<img src="Screenshots/4.product_list.jpg" height="600" width="auto">|<img src="Screenshots/5.add_to_cart.jpg" height="600" width="auto">|
 |                            Cart                            |                             Order List                              |                           Shop Review                                 |
-| :--------------------------------------------------------: | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: |
 |<img src="Screenshots/6.cart.jpg" height="600" width="auto">|<img src="Screenshots/8.order_details.jpg" height="600" width="auto">|<img src="Screenshots/10.shop_reviews.jpg" height="600" width="auto">|
 |                     Product Details Seller                             |                        Seller Add/Update products                   |
 | :--------------------------------------------------------------------: | :-----------------------------------------------------------------: |
