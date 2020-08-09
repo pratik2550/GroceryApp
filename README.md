@@ -4,7 +4,7 @@ An application for buying grocery online from near by shops, In it seller are al
 
 |                    Login               |                    Register                      |                 Shop List                    |
 | :------------------------------- ----: | :----------------------------------------------: | :------------------------------------------: |
-|    ![Banner](Screenshots/1.login.jpg |height=100)  | ![Home Page](Screenshots/2.register_user.jpg |height=100)    | ![Story](Screenshots/3.shop_list.jpg |height=100)        |
+|    ![Banner](Screenshots/1.login.jpg |height="100" width="auto")  | ![Home Page](Screenshots/2.register_user.jpg |height="100" width="auto")    | ![Story](Screenshots/3.shop_list.jpg |height="100" width="auto")        |
 
 Features:-<br />
 Buyer-<br />
