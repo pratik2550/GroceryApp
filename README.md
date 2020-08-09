@@ -9,12 +9,9 @@ An application for buying grocery online from near by shops, In it seller are al
 
 ## Screenshots
 |                        Shop List                     |                        Product List                   |                        Shop List                      |
-| :--------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
 |  <img src="Screenshots/3.slist.jpg" height="600">    |    <img src="Screenshots/4.plist.jpg" height="600">   |   <img src="Screenshots/5.addcart.jpg" height="600">  |
-
 |                         Cart                         |                        Order List                     |                      Shop Review                      |
 |   <img src="Screenshots/6.cart.jpg" height="600">    |  <img src="Screenshots/8.odetails.jpg" height="600">  |  <img src="Screenshots/10.reviews.jpg" height="600">  |
-
 |                       Product Details Seller         |                Seller Add/Update products             |
 | <img src="Screenshots/13.pdetails.jpg" height="600"> |  <img src="Screenshots/14.add.jpg" height="600">      |
 
