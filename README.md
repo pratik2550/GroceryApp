@@ -1,5 +1,5 @@
 # Hello :wave:
-Welcome to **GroxeryUp** Project. It is a e-grocery shop.<br/>
+Welcome to **GroxeryUp** Project. It is a E-grocery shop.<br/>
 An application for buying grocery online from near by shops, In it seller are also able to register their shop.<br />
 ## Technology/ Stack used
 - Java 
@@ -18,7 +18,7 @@ An application for buying grocery online from near by shops, In it seller are al
 |   <img src="Screenshots/6.cart.jpg" height="600">    |  <img src="Screenshots/8.odetails.jpg" height="600">  |  <img src="Screenshots/10.reviews.jpg" height="600">  |
 
 |                   Product Details Seller             |                Seller Add/Update products             |
-| :--------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
+| :--------------------------------------------------: | :---------------------------------------------------: |
 | <img src="Screenshots/13.pdetails.jpg" height="600"> |  <img src="Screenshots/14.add.jpg" height="600">      |
 
 ## APK
