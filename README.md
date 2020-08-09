@@ -2,6 +2,8 @@
 Online grocery app
 An application for buying grocery online from near by shops, In it seller are also able to register their shop, it is created in android studio using java, xml and firebase.<br />
 ![alt text](https://github.com/pratik2550/GroceryApp/blob/master/Screenshots/1.login.jpg)
+![alt text](https://github.com/pratik2550/GroceryApp/blob/master/Screenshots/2.register_user.jpg)
+![alt text](https://github.com/pratik2550/GroceryApp/blob/master/Screenshots/3.shop_list.jpg)
 Features:-<br />
 Buyer-<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.Able to view all the products available in store<br />
