@@ -232,11 +232,11 @@ public class MainBuyerActivity extends AppCompatActivity {
                         for (DataSnapshot ds: dataSnapshot.getChildren()){
                             ModelShop modelShop = ds.getValue(ModelShop.class);
 
-                            String shopCity = ""+ds.child("city").getValue();
+//                            String shopCity = ""+ds.child("city").getValue();
 
-                            if (shopCity.equals(myCity)){
+//                            if (shopCity.equals(myCity)){
                                 shopList.add(modelShop);
-                            }
+//                            }
                         }
 
                         adapterShop = new AdapterShop(MainBuyerActivity.this, shopList);

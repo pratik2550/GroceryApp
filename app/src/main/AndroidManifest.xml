@@ -16,7 +16,8 @@
         android:roundIcon="@drawable/shop"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".activity.WriteReviewActivity"></activity>
+        <activity android:name=".activity.PaymentActivity"></activity>
+        <activity android:name=".activity.WriteReviewActivity" />
         <activity android:name=".activity.ShopReviewActivity" />
         <activity android:name=".activity.OrderDetailsShopActivity" />
         <activity android:name=".activity.OrderDetailsBuyerActivity" />
@@ -37,7 +38,8 @@
         <activity android:name=".activity.ForgotPasswordActivity" />
         <activity android:name=".activity.RegisterBuyerActivity" />
         <activity android:name=".activity.RegisterSellerActivity" />
-        <activity android:name=".activity.LoginActivity"
+        <activity
+            android:name=".activity.LoginActivity"
             android:windowSoftInputMode="stateHidden" />
         <activity android:name=".activity.SplashActivity">
             <intent-filter>

@@ -75,6 +75,7 @@
                 android:layout_below="@id/cartItemRV"/>
 
             <TableLayout
+                android:id="@+id/tableLayout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_below="@id/view01"
@@ -103,7 +104,7 @@
                         android:id="@+id/detailCost"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="$775"
+                        android:text="₹00.0"
                         android:textSize="15dp"
                         android:textColor="@color/colorBlack"/>
                 </TableRow>
@@ -118,7 +119,7 @@
                         android:id="@+id/detailDelivery"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="$80"
+                        android:text="₹00.0"
                         android:textSize="15dp"
                         android:textColor="@color/colorBlack"/>
                 </TableRow>
@@ -133,7 +134,7 @@
                         android:id="@+id/detailTotal"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="$835"
+                        android:text="₹00.0"
                         android:textSize="15dp"
                         android:textColor="@color/colorBlack"/>
                 </TableRow>
@@ -175,7 +176,7 @@
                 android:id="@+id/grandTotalTV"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="$10"
+                android:text="₹00.00"
                 android:textColor="@color/colorBlack"
                 android:textSize="18dp" />
 
@@ -196,7 +197,8 @@
             android:layout_marginTop="2dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="2dp"
-            android:background="@color/colorPrimary"
+            android:minWidth="120dp"
+            android:background="@drawable/shape_rect06"
             android:padding="5dp"
             android:text="Place Order"
             android:textColor="@color/colorWhite" />
