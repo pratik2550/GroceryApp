@@ -22,7 +22,7 @@ An android application for buying grocery online from near by shops, In it selle
 | <img src="Screenshots/13.pdetails.jpg" height="600"> |  <img src="Screenshots/14.add.jpg" height="600">      |
 
 ## APK :iphone:
-[Apk link](Screenshots/groxeryUp.apk)
+[Apk link](https://drive.google.com/file/d/1Z2uGWXdqhYIySatzZamZ1dXoEPbhzhcM/view?usp=sharing)
 
 ## Features:
 **Buyer-** <br/>
