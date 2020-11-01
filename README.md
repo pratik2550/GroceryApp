@@ -15,7 +15,7 @@ An android application for buying grocery online from near by shops, In it selle
 
 |                         Cart                         |                        Order List                     |                      Shop Review                      |
 | :--------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-|   <img src="Screenshots/6.cart.jpg" height="600">    |  <img src="Screenshots/8.odetails.jpg" height="600">  |  <img src="Screenshots/10.reviews.jpg" height="600">  |
+|         <img src="Screenshots/6.cart.jpg">           |        <img src="Screenshots/8.odetails.jpg">         |         <img src="Screenshots/10.reviews.jpg">        |
 
 |                   Product Details Seller             |                Seller Add/Update products             |
 | :--------------------------------------------------: | :---------------------------------------------------: |
