@@ -17,9 +17,9 @@ An android application for buying grocery online from near by shops, In it selle
 | :--------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
 |         <img src="Screenshots/6.cart.jpg">           |        <img src="Screenshots/8.odetails.jpg">         |         <img src="Screenshots/10.reviews.jpg">        |
 
-|                   Product Details Seller             |                Seller Add/Update products             |
-| :--------------------------------------------------: | :---------------------------------------------------: |
-|        <img src="Screenshots/13.pdetails.jpg">       |         <img src="Screenshots/14.add.jpg">            |
+|                   Product Details Seller             |                Seller Add/Update products             |                                                       |
+| :--------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
+|        <img src="Screenshots/13.pdetails.jpg">       |         <img src="Screenshots/14.add.jpg">            |                                                       |
 
 ## APK :iphone:
 [Apk link](https://drive.google.com/file/d/1Z2uGWXdqhYIySatzZamZ1dXoEPbhzhcM/view?usp=sharing)
