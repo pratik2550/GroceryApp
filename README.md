@@ -24,7 +24,7 @@ An android application for buying grocery online from near by shops, In it selle
 ## APK :iphone:
 [Apk link](https://drive.google.com/file/d/1Z2uGWXdqhYIySatzZamZ1dXoEPbhzhcM/view?usp=sharing)
 
-## Features:
+## Features :clipboard:
 **Buyer-** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.Able to view all the products available in store<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Manage list and add product to cart<br />
